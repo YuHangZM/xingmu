@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 this is a test flie,writed by zhangmiao1
 
-this is modified by zhagmiao1 
+ok !!! 
